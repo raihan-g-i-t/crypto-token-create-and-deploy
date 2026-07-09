@@ -5,6 +5,4 @@ coverage/
 coverage.json
 typechain-types/
 .env
-.codex
-.agents
 
